@@ -1,6 +1,6 @@
 ## Требования
 
-- Python 3.8+
+- Python 3.8+ (тестировалось на Python 3.10.11)
 - torch
 - torchvision
 - matplotlib
